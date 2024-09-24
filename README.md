@@ -1,4 +1,5 @@
 Wordle Game in C
+
 This program is a custom implementation of the popular Wordle game, written in C using CS50's library. The game allows the user to guess a secret word of a length between 5 and 8 letters, which the user selects at the start. The goal is to guess the word within 5 attempts.
 
 For each guess:
