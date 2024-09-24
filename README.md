@@ -4,6 +4,9 @@ This program is a custom implementation of the popular Wordle game, written in C
 For each guess:
 
 Green indicates the correct letter in the correct position.
+
 Yellow indicates the correct letter in the wrong position.
+
 Red indicates an incorrect letter.
+
 The game ends when the user guesses the word correctly or exhausts all 5 attempts. The program runs entirely in the terminal, providing an interactive experience with dynamic color-coded feedback.
